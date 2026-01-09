@@ -1,4 +1,4 @@
-Run in a CLI, commands are as follows: 
+# Run in a CLI, commands are as follows: 
 
   # Scan top 20 high-volume markets
   python -m tracker scan
